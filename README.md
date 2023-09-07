@@ -1,8 +1,11 @@
 # TrabajoFinal
 
 PROYECTO INTEGRADOR FULLCODERS
+
 Titulo: Sistema de gestion de gastos 
+
 Descripción del Proyecto: El objetivo principal de la aplicación será permitir a los usuarios registrar y rastrear sus gastos personales. Se incluira funcionalidades básicas como la capacidad de ingresar la cantidad gastada, la categoría del gasto y una breve descripción. Además, mostrara el total de gastos acumulados. 
+
 Requisitos Funcionales:
     1. Registrar un Gasto: Los usuarios deben poder ingresar la cantidad gastada, la categoría del gasto y una breve descripción.
     2. Mostrar Total de Gastos: La aplicación debe mantener un registro del total de gastos acumulados y mostrarlo en pantalla.
@@ -18,3 +21,9 @@ Se utilizan diagramas de flujo y pseudocódigo en Pseint para representar el flu
     • Mensajes de confirmación y advertencia cuando sea necesario.
 Desarrollo de Código:
 Una vez diseñada la interfaz de usuario y definido los requisitos funcionales, se procede a implementar la aplicación en Pseint. 
+
+IMPORTANTE!!!!!!
+
+Antes de ejecutar:
+
+Utilizar Indices en arreglos/cadenas en base 0 en la configuracion del lenguaje de Pseint.

@@ -1,6 +1,8 @@
 Algoritmo GestorDeGastos
-	// Utilizar Indices en arreglos y cadenas en base 0 en la configuracion del lenguaje
+	// Utilizar Indices en arreglos/cadenas en base 0 en la configuracion del lenguaje
+	Escribir ""
 	Escribir '--¡¡Bienvenido a tu Gestor de Gastos!!--'
+	Escribir ""
 	// Declaración de variables
 	Definir opcion Como Entero
 	Definir pos Como Entero
@@ -13,7 +15,9 @@ Algoritmo GestorDeGastos
 	pos <- 0
 	totalGeneral <- 0
 	// Ciclo principal
+	
 	Repetir
+		Escribir ""
 		Escribir 'Menú Principal:'
 		Escribir 'Gastos ingresados = ', pos, ' (máximo ', maximoDeGastos, ')'
 		Escribir 'Seleccione una opción: '
